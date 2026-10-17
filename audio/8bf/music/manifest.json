@@ -1,0 +1,81 @@
+{
+ "title": [
+  "theme__t1.mp3"
+ ],
+ "theme-strike": [
+  "theme__t1.mp3"
+ ],
+ "routes": [
+  "map__t2.mp3"
+ ],
+ "combat": [
+  "l1_combat__t1.mp3",
+  "l1_combat__t2.mp3",
+  "l1_combat__t3.mp3",
+  "l1_combat__t4.mp3",
+  "l1_combat__t5.mp3",
+  "l1_combat__t6.mp3",
+  "l1_combat__t7.mp3"
+ ],
+ "elite": [
+  "l2_combat__t1.mp3",
+  "l2_combat__t2.mp3"
+ ],
+ "act2": [
+  "l2_combat__t1.mp3",
+  "l2_combat__t2.mp3"
+ ],
+ "boss": [
+  "boss_l1__t1.mp3"
+ ],
+ "inn": [
+  "rest__t1.mp3"
+ ],
+ "mystery": [
+  "event__t1.mp3",
+  "event__t2.mp3",
+  "event__t3.mp3",
+  "event__t4.mp3",
+  "event__t5.mp3",
+  "event__t6.mp3",
+  "event__t7.mp3"
+ ],
+ "mystery-happy": [
+  "event_happy__t1.mp3",
+  "event_happy__t2.mp3"
+ ],
+ "mystery-touching": [
+  "event_touching__t1.mp3"
+ ],
+ "mystery-lively": [
+  "event_lively__t1.mp3"
+ ],
+ "mystery-dark": [
+  "event_dark__t1.mp3"
+ ],
+ "market": [
+  "event_lively__t1.mp3"
+ ],
+ "unhinged": [
+  "unhinged__t1.mp3"
+ ],
+ "storybook": [
+  "soulful_ambient__t1.mp3"
+ ],
+ "sighting": [
+  "soulful_ambient__t1.mp3"
+ ],
+ "void": [
+  "soulful_ambient__t1.mp3"
+ ],
+ "vivaldi": [
+  "vivaldi__pd1.mp3",
+  "vivaldi__pd2.mp3"
+ ],
+ "village": [
+  "village__v1.mp3"
+ ],
+ "vivaldi-storm": [
+  "vivaldi__pd2.mp3"
+ ]
+}

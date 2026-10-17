@@ -1,0 +1,1017 @@
+{
+ "_": "Ambient beds (src/8bf/ambience.ts; design audio-8bf/AMBIENCE.md; built by tools/8bf/amb8.py). Every file is mastered to -26.0 LUFS; bed db = its character, map db = one place, under = dB under each music slot (\"\" = no music).",
+ "beds": {
+  "shore": {
+   "file": "shore.mp3",
+   "label": "Surf at dusk",
+   "spots": [
+    {
+     "file": "spot_gull1.mp3",
+     "every": [
+      26,
+      60
+     ],
+     "db": -8
+    },
+    {
+     "file": "spot_gull2.mp3",
+     "every": [
+      30,
+      75
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "night_sea": {
+   "file": "night_sea.mp3",
+   "label": "Night surf under the cliffs"
+  },
+  "calm_sea": {
+   "file": "calm_sea.mp3",
+   "label": "Still water lapping at dawn"
+  },
+  "seacave": {
+   "file": "seacave.mp3",
+   "label": "Waves booming in a sea cave",
+   "spots": [
+    {
+     "file": "spot_drip1.mp3",
+     "every": [
+      7,
+      16
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      9,
+      20
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "shell": {
+   "file": "shell.mp3",
+   "label": "Inside the great shell: the sea held to your ear",
+   "db": -2
+  },
+  "stormsea": {
+   "file": "stormsea.mp3",
+   "label": "A storm wave inside a painting",
+   "spots": [
+    {
+     "file": "spot_thunder1.mp3",
+     "every": [
+      14,
+      30
+     ],
+     "db": -4
+    },
+    {
+     "file": "spot_thunder2.mp3",
+     "every": [
+      18,
+      38
+     ],
+     "db": -6
+    }
+   ]
+  },
+  "plateau": {
+   "file": "plateau.mp3",
+   "label": "Prayer flags snapping in high wind"
+  },
+  "clouds": {
+   "file": "clouds.mp3",
+   "label": "High air above the clouds",
+   "db": -1
+  },
+  "snow": {
+   "file": "snow.mp3",
+   "label": "The hush of snow in the pines",
+   "db": -2
+  },
+  "playa": {
+   "file": "playa.mp3",
+   "label": "Dry wind over the desert"
+  },
+  "burner": {
+   "file": "burner.mp3",
+   "label": "A festival far off across the playa"
+  },
+  "field": {
+   "file": "field.mp3",
+   "label": "Wheat and crickets at sunset"
+  },
+  "night_field": {
+   "file": "night_field.mp3",
+   "label": "Crickets at night, a far road"
+  },
+  "forest": {
+   "file": "forest.mp3",
+   "label": "Birdsong in tall trees"
+  },
+  "jungle": {
+   "file": "jungle.mp3",
+   "label": "Jungle: insects and birds",
+   "spots": [
+    {
+     "file": "spot_drip1.mp3",
+     "every": [
+      12,
+      30
+     ],
+     "db": -12
+    }
+   ]
+  },
+  "courtyard": {
+   "file": "courtyard.mp3",
+   "label": "Garden birds by the sea"
+  },
+  "hollow": {
+   "file": "hollow.mp3",
+   "label": "Inside a giant hollow tree",
+   "db": -2,
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      14,
+      34
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "rain": {
+   "file": "rain.mp3",
+   "label": "Rain on a brick street at night"
+  },
+  "storm": {
+   "file": "storm.mp3",
+   "label": "A storm gathering between two gods",
+   "spots": [
+    {
+     "file": "spot_thunder1.mp3",
+     "every": [
+      9,
+      20
+     ],
+     "db": -2
+    },
+    {
+     "file": "spot_thunder2.mp3",
+     "every": [
+      12,
+      26
+     ],
+     "db": -4
+    }
+   ]
+  },
+  "rain_up": {
+   "file": "rain_up.mp3",
+   "label": "Rain falling upward",
+   "db": -6
+  },
+  "city": {
+   "file": "city.mp3",
+   "label": "The city at night from a roof",
+   "spots": [
+    {
+     "file": "spot_siren.mp3",
+     "every": [
+      45,
+      110
+     ],
+     "db": -4
+    },
+    {
+     "file": "spot_plane.mp3",
+     "every": [
+      60,
+      140
+     ],
+     "db": -5
+    }
+   ]
+  },
+  "plaza": {
+   "file": "plaza.mp3",
+   "label": "The pink plaza: the subway breathing, the whale in the wall",
+   "spots": [
+    {
+     "file": "spot_whale.mp3",
+     "every": [
+      24,
+      55
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_train.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -6
+    }
+   ]
+  },
+  "market": {
+   "file": "market.mp3",
+   "label": "A market crowd"
+  },
+  "carnival": {
+   "file": "carnival.mp3",
+   "label": "The midway at night",
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      12,
+      30
+     ],
+     "db": -7
+    },
+    {
+     "file": "spot_creak2.mp3",
+     "every": [
+      16,
+      38
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "bigtop": {
+   "file": "bigtop.mp3",
+   "label": "Under the big top",
+   "spots": [
+    {
+     "file": "spot_creak2.mp3",
+     "every": [
+      14,
+      34
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "mirrors": {
+   "file": "mirrors.mp3",
+   "label": "A hall of warped mirrors"
+  },
+  "mirror_world": {
+   "file": "mirror_world.mp3",
+   "label": "The same hall, backwards",
+   "spots": [
+    {
+     "file": "spot_boom_back.mp3",
+     "every": [
+      24,
+      60
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "station": {
+   "file": "station.mp3",
+   "label": "A great railway station",
+   "spots": [
+    {
+     "file": "spot_train.mp3",
+     "every": [
+      26,
+      60
+     ],
+     "db": -5
+    },
+    {
+     "file": "spot_clank.mp3",
+     "every": [
+      20,
+      50
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "inn": {
+   "file": "inn.mp3",
+   "label": "The inn: fire and company"
+  },
+  "tavern": {
+   "file": "tavern.mp3",
+   "label": "An empty tavern, its fire roaring",
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      18,
+      40
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "sunroom": {
+   "file": "sunroom.mp3",
+   "label": "Bingo in a sunroom by the sea",
+   "db": -1
+  },
+  "whale": {
+   "file": "whale.mp3",
+   "label": "The whale's belly",
+   "db": -2,
+   "spots": [
+    {
+     "file": "spot_drip1.mp3",
+     "every": [
+      6,
+      14
+     ],
+     "db": -4
+    },
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      8,
+      18
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_drip3.mp3",
+     "every": [
+      10,
+      22
+     ],
+     "db": -7
+    }
+   ]
+  },
+  "subway": {
+   "file": "subway.mp3",
+   "label": "A subway platform deep underground",
+   "db": -1,
+   "spots": [
+    {
+     "file": "spot_train.mp3",
+     "every": [
+      22,
+      50
+     ],
+     "db": -3
+    },
+    {
+     "file": "spot_clank.mp3",
+     "every": [
+      16,
+      40
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "office": {
+   "file": "office.mp3",
+   "label": "An endless fluorescent office",
+   "db": -3
+  },
+  "lab": {
+   "file": "lab.mp3",
+   "label": "A white clinic",
+   "db": -4
+  },
+  "supermarket": {
+   "file": "supermarket.mp3",
+   "label": "An endless supermarket",
+   "spots": [
+    {
+     "file": "spot_clank.mp3",
+     "every": [
+      20,
+      50
+     ],
+     "db": -12
+    }
+   ]
+  },
+  "starship": {
+   "file": "starship.mp3",
+   "label": "Inside a ship among the stars",
+   "db": -2
+  },
+  "cathedral": {
+   "file": "cathedral.mp3",
+   "label": "A vast stone nave",
+   "db": -2,
+   "spots": [
+    {
+     "file": "spot_door.mp3",
+     "every": [
+      40,
+      90
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_boom.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "library": {
+   "file": "library.mp3",
+   "label": "A hushed library",
+   "db": -3
+  },
+  "study": {
+   "file": "study.mp3",
+   "label": "A quiet study at evening",
+   "db": -3
+  },
+  "kitchen": {
+   "file": "kitchen.mp3",
+   "label": "A 1960s kitchen at sunset",
+   "db": -2
+  },
+  "cave": {
+   "file": "cave.mp3",
+   "label": "A small fire in a mountain cave",
+   "spots": [
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      14,
+      34
+     ],
+     "db": -10
+    }
+   ]
+  },
+  "villagefire": {
+   "file": "villagefire.mp3",
+   "label": "The village burning"
+  },
+  "void": {
+   "file": "void.mp3",
+   "label": "The void",
+   "db": -4
+  },
+  "still": {
+   "file": "still.mp3",
+   "label": "The air going still",
+   "db": -7
+  },
+  "still_sea": {
+   "file": "still_sea.mp3",
+   "label": "Still air over a night sea",
+   "db": -6
+  },
+  "mythos": {
+   "file": "mythos.mp3",
+   "label": "The whole Mythos at dusk",
+   "spots": [
+    {
+     "file": "spot_gull1.mp3",
+     "every": [
+      20,
+      45
+     ],
+     "db": -10
+    },
+    {
+     "file": "spot_whale.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -9
+    },
+    {
+     "file": "spot_balloon.mp3",
+     "every": [
+      40,
+      90
+     ],
+     "db": -10
+    }
+   ]
+  }
+ },
+ "map": {
+  "title": "mythos",
+  "book": {
+   "bed": "study",
+   "db": -3
+  },
+  "void": "void",
+  "scene:r3_plaza": "plaza",
+  "scene:r3_desert_bones": "playa",
+  "scene:r3_beach_ufo": "night_sea",
+  "scene:s_beach": "shore",
+  "scene:r3_library": "library",
+  "scene:r3_circus": {
+   "bed": "carnival",
+   "db": -2
+  },
+  "scene:r3_rooftops": "city",
+  "scene:r3_forest": {
+   "bed": "forest",
+   "spots": [
+    {
+     "file": "spot_balloon.mp3",
+     "every": [
+      25,
+      60
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "scene:r3_mountain": {
+   "bed": "plateau",
+   "db": -2,
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      16,
+      40
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "scene:r3_suburb": {
+   "bed": "night_field",
+   "db": 1
+  },
+  "scene:r3_pink_sea": {
+   "bed": "calm_sea",
+   "spots": [
+    {
+     "file": "spot_gull1.mp3",
+     "every": [
+      24,
+      55
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "scene:r3_station": "station",
+  "scene:r3_museum": {
+   "bed": "cathedral",
+   "db": -5
+  },
+  "scene:r2_pink_room": {
+   "bed": "study",
+   "db": -3
+  },
+  "scene:r2_field_ufo": "night_field",
+  "scene:r2_gallery": {
+   "bed": "cathedral",
+   "db": -7
+  },
+  "scene:r2_whale_beach": {
+   "bed": "shore",
+   "spots": [
+    {
+     "file": "spot_whale.mp3",
+     "every": [
+      22,
+      50
+     ],
+     "db": -7
+    }
+   ]
+  },
+  "scene:r2_jungle": "jungle",
+  "scene:r2_office": "office",
+  "scene:r2_bedroom": {
+   "bed": "snow",
+   "db": -3,
+   "spots": [
+    {
+     "file": "spot_balloon.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -10
+    }
+   ]
+  },
+  "scene:r2_kitchen": "kitchen",
+  "scene:r2_cave": {
+   "bed": "seacave",
+   "db": -2
+  },
+  "scene:r1_void_stair": "void",
+  "scene:r1_campfire": {
+   "bed": "forest",
+   "db": -2
+  },
+  "scene:r1_corridor": {
+   "bed": "cathedral",
+   "db": -6
+  },
+  "scene:s_crossroads": "field",
+  "scene:s_station": "station",
+  "scene:s_lighthouse": {
+   "bed": "calm_sea",
+   "spots": [
+    {
+     "file": "spot_gull2.mp3",
+     "every": [
+      24,
+      55
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "scene:s_meadow": "field",
+  "scene:s_rooftop": {
+   "bed": "city",
+   "spots": [
+    {
+     "file": "spot_balloon.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "scene:s_ice": {
+   "bed": "clouds",
+   "db": -2
+  },
+  "scene:s_courtyard": "courtyard",
+  "scene:s_cloudship": {
+   "bed": "clouds",
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      12,
+      30
+     ],
+     "db": -7
+    },
+    {
+     "file": "spot_creak2.mp3",
+     "every": [
+      16,
+      36
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "scene:r1_keyhole": {
+   "bed": "playa",
+   "db": -2
+  },
+  "scene:r1_rainbow": "clouds",
+  "scene:r1_ribcage": {
+   "bed": "playa",
+   "db": -3
+  },
+  "scene:r2_canyon": {
+   "bed": "playa",
+   "db": -1
+  },
+  "scene:*": {
+   "bed": "clouds",
+   "db": -4
+  },
+  "place:beach": "shore",
+  "place:kitchen": "kitchen",
+  "place:plains": "field",
+  "place:cathedral": "cathedral",
+  "place:galilee": "calm_sea",
+  "place:carnival": "carnival",
+  "place:mirrors": "mirrors",
+  "place:london": "rain",
+  "place:playa": "playa",
+  "place:lab": "lab",
+  "place:sky": "plateau",
+  "place:plate": {
+   "bed": "kitchen",
+   "db": -2
+  },
+  "place:office": "office",
+  "place:supermarket": "supermarket",
+  "place:village": "courtyard",
+  "place:castletown": {
+   "bed": "market",
+   "db": -2
+  },
+  "place:starship": "starship",
+  "place:bridge": {
+   "bed": "starship",
+   "db": 2
+  },
+  "place:whale": "whale",
+  "place:subway": "subway",
+  "place:shell": "shell",
+  "place:dunes": "playa",
+  "place:ribcage": {
+   "bed": "playa",
+   "db": -1
+  },
+  "place:clouds": "clouds",
+  "place:train": {
+   "bed": "subway",
+   "db": -2
+  },
+  "place:seacave": "seacave",
+  "place:hollow": "hollow",
+  "place:cave": "cave",
+  "place:balloon": {
+   "bed": "clouds",
+   "spots": [
+    {
+     "file": "spot_balloon.mp3",
+     "every": [
+      14,
+      32
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_creak2.mp3",
+     "every": [
+      12,
+      28
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "place:library": "library",
+  "place:bigtop": "bigtop",
+  "place:tavern": "tavern",
+  "place:belfry": {
+   "bed": "plateau",
+   "db": -2
+  },
+  "place:pier": {
+   "bed": "night_sea",
+   "spots": [
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      10,
+      24
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "place:rooftop": "city",
+  "place:snowforest": "snow",
+  "place:jungle": "jungle",
+  "place:temple": {
+   "bed": "cathedral",
+   "db": -3,
+   "spots": [
+    {
+     "file": "spot_drip3.mp3",
+     "every": [
+      12,
+      28
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "place:pyramid": {
+   "bed": "jungle",
+   "db": -4
+  },
+  "place:mine": {
+   "bed": "subway",
+   "db": -2,
+   "spots": [
+    {
+     "file": "spot_drip1.mp3",
+     "every": [
+      10,
+      24
+     ],
+     "db": -8
+    },
+    {
+     "file": "spot_creak1.mp3",
+     "every": [
+      16,
+      36
+     ],
+     "db": -9
+    }
+   ]
+  },
+  "place:studio": "study",
+  "place:sewer": {
+   "bed": "subway",
+   "db": -1,
+   "spots": [
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      6,
+      14
+     ],
+     "db": -6
+    },
+    {
+     "file": "spot_drip3.mp3",
+     "every": [
+      8,
+      18
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "place:well": {
+   "bed": "night_field",
+   "db": -7,
+   "spots": [
+    {
+     "file": "spot_drip1.mp3",
+     "every": [
+      8,
+      18
+     ],
+     "db": -5
+    }
+   ]
+  },
+  "place:catacombs": {
+   "bed": "cathedral",
+   "db": -4,
+   "spots": [
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      10,
+      24
+     ],
+     "db": -8
+    }
+   ]
+  },
+  "place:stormsea": "stormsea",
+  "place:road": "field",
+  "place:space": "void",
+  "place:villagefire": "villagefire",
+  "place:*": {
+   "bed": "clouds",
+   "db": -4
+  },
+  "room:inn": "inn",
+  "room:market": "market",
+  "room:trial": "storm",
+  "room:muse": {
+   "bed": "study",
+   "db": -2
+  },
+  "room:*": {
+   "bed": "study",
+   "db": -2
+  },
+  "realm:american": {
+   "bed": "field",
+   "spots": [
+    {
+     "file": "spot_thunder2.mp3",
+     "every": [
+      30,
+      70
+     ],
+     "db": -12
+    }
+   ]
+  },
+  "realm:messiah": "calm_sea",
+  "realm:trickster": "carnival",
+  "realm:punk": "rain",
+  "realm:burner": "burner",
+  "realm:optimizer": {
+   "bed": "jungle",
+   "db": -3
+  },
+  "realm:dakini": "plateau",
+  "realm:*": {
+   "bed": "clouds",
+   "db": -4
+  },
+  "mystery:forgotten-gods": "sunroom",
+  "mystery:sphinx": "office",
+  "mystery:teenager": {
+   "bed": "rain",
+   "db": -1
+  },
+  "mystery:wedding": {
+   "bed": "shore",
+   "db": -1
+  },
+  "mystery:doomer-choir": "cathedral",
+  "mystery:dinner-plate": "kitchen",
+  "mystery:other-side": "mirror_world",
+  "mystery:window": {
+   "bed": "clouds",
+   "db": -2
+  },
+  "mystery:effigy": "burner",
+  "mystery:three-doors": "plateau",
+  "mystery:*": {
+   "bed": "clouds",
+   "db": -4
+  },
+  "sighting:*": "still",
+  "sighting:lamp": "still_sea",
+  "sighting:rain": "rain_up",
+  "sighting:oldest-girl": {
+   "bed": "still",
+   "spots": [
+    {
+     "file": "spot_drip2.mp3",
+     "every": [
+      9,
+      20
+     ],
+     "db": -10
+    }
+   ]
+  },
+  "sighting:phantom": {
+   "bed": "still",
+   "db": -2
+  },
+  "intro:void": "void",
+  "intro:barn": {
+   "bed": "courtyard",
+   "db": -2
+  },
+  "intro:village": "courtyard",
+  "intro:villagefire": "villagefire",
+  "intro:road": "field",
+  "intro:castletown": {
+   "bed": "market",
+   "db": -2
+  },
+  "intro:space": {
+   "bed": "void",
+   "db": 1
+  },
+  "intro:starship": "starship",
+  "intro:bridge": {
+   "bed": "starship",
+   "db": 2
+  },
+  "intro:beach": "shore"
+ },
+ "under": {
+  "act2": -12.0,
+  "boss": -14.7,
+  "combat": -12.4,
+  "elite": -13.0,
+  "inn": -4.3,
+  "market": -3.2,
+  "mystery": -5.8,
+  "mystery-dark": -5.9,
+  "mystery-happy": -4.3,
+  "mystery-lively": -4.2,
+  "mystery-touching": -2.7,
+  "routes": -5.1,
+  "sighting": -2.8,
+  "storybook": -6.8,
+  "theme-strike": -8.1,
+  "title": -4.1,
+  "unhinged": -3.7,
+  "village": -3.9,
+  "vivaldi": -7.6,
+  "vivaldi-storm": -5.2,
+  "void": -1.8,
+  "*": -4.8,
+  "": -1.1
+ }
+}

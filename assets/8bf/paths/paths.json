@@ -1,0 +1,1265 @@
+{
+ "scenes": [
+  {
+   "id": "r3_plaza",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the subway",
+     "box": [
+      0.08,
+      0.37,
+      0.22,
+      0.5
+     ],
+     "dest": "subway",
+     "way": "subway"
+    },
+    {
+     "dir": "center",
+     "label": "Walk into the mouth of the whale",
+     "box": [
+      0.41,
+      0.21,
+      0.18,
+      0.53
+     ],
+     "dest": "whale",
+     "way": "whale"
+    },
+    {
+     "dir": "right",
+     "label": "Step through the break in reality",
+     "box": [
+      0.735,
+      0.35,
+      0.21,
+      0.4
+     ],
+     "dest": "dunes",
+     "way": "rift"
+    }
+   ]
+  },
+  {
+   "id": "r3_desert_bones",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Climb through the ribs of the giant",
+     "box": [
+      0.02,
+      0.25,
+      0.38,
+      0.52
+     ],
+     "dest": "ribcage",
+     "way": "ribs"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the stairway into the clouds",
+     "box": [
+      0.43,
+      0.17,
+      0.17,
+      0.47
+     ],
+     "dest": "clouds",
+     "way": "stairs"
+    },
+    {
+     "dir": "right",
+     "label": "Open the blue door",
+     "box": [
+      0.77,
+      0.42,
+      0.12,
+      0.42
+     ],
+     "dest": "village",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "r3_beach_ufo",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the sea cave",
+     "box": [
+      0.09,
+      0.4,
+      0.22,
+      0.38
+     ],
+     "dest": "seacave",
+     "way": "cave"
+    },
+    {
+     "dir": "center",
+     "label": "Walk out along the pier",
+     "box": [
+      0.34,
+      0.34,
+      0.33,
+      0.27
+     ],
+     "dest": "pier",
+     "way": "pier"
+    },
+    {
+     "dir": "up",
+     "label": "Get beamed up into the UFO",
+     "box": [
+      0.74,
+      0.24,
+      0.17,
+      0.37
+     ],
+     "dest": "starship",
+     "way": "ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_beach",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Cross the bridge of light to the island",
+     "box": [
+      0.1,
+      0.33,
+      0.31,
+      0.2
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the road of light into the sun",
+     "box": [
+      0.44,
+      0.27,
+      0.14,
+      0.23
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Cross the bridge of light to the lighthouse",
+     "box": [
+      0.67,
+      0.3,
+      0.3,
+      0.22
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "r3_library",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Climb the spiral stairs",
+     "box": [
+      0.0,
+      0.3,
+      0.31,
+      0.52
+     ],
+     "dest": "library",
+     "way": "spiral"
+    },
+    {
+     "dir": "center",
+     "label": "Follow the shelves to the glowing arch",
+     "box": [
+      0.42,
+      0.12,
+      0.17,
+      0.5
+     ],
+     "dest": "cathedral",
+     "way": "arch"
+    },
+    {
+     "dir": "down",
+     "label": "Go down through the trapdoor",
+     "box": [
+      0.68,
+      0.44,
+      0.3,
+      0.46
+     ],
+     "dest": "catacombs",
+     "way": "trapdoor"
+    }
+   ]
+  },
+  {
+   "id": "r3_circus",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the circus tent",
+     "box": [
+      0.08,
+      0.4,
+      0.33,
+      0.36
+     ],
+     "dest": "bigtop",
+     "way": "tent"
+    },
+    {
+     "dir": "up",
+     "label": "Walk the tightrope",
+     "box": [
+      0.41,
+      0.15,
+      0.37,
+      0.33
+     ],
+     "dest": "carnival",
+     "way": "tightrope"
+    },
+    {
+     "dir": "down",
+     "label": "Climb down through the trapdoor",
+     "box": [
+      0.65,
+      0.53,
+      0.33,
+      0.3
+     ],
+     "dest": "mirrors",
+     "way": "trapdoor"
+    }
+   ]
+  },
+  {
+   "id": "r3_rooftops",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Take the fire escape down",
+     "box": [
+      0.0,
+      0.15,
+      0.18,
+      0.8
+     ],
+     "dest": "london",
+     "way": "fireescape"
+    },
+    {
+     "dir": "center",
+     "label": "Cross the footbridge",
+     "box": [
+      0.42,
+      0.48,
+      0.17,
+      0.3
+     ],
+     "dest": "rooftop",
+     "way": "bridge"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the water tower",
+     "box": [
+      0.73,
+      0.06,
+      0.19,
+      0.66
+     ],
+     "dest": "rooftop",
+     "way": "tower"
+    }
+   ]
+  },
+  {
+   "id": "r3_forest",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Crawl into the hollow tree",
+     "box": [
+      0.07,
+      0.58,
+      0.16,
+      0.34
+     ],
+     "dest": "hollow",
+     "way": "hollow"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the tunnel of trees to the orange door",
+     "box": [
+      0.41,
+      0.28,
+      0.14,
+      0.32
+     ],
+     "dest": "tavern",
+     "way": "door"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the ladder to the balloon",
+     "box": [
+      0.6,
+      0.0,
+      0.13,
+      0.72
+     ],
+     "dest": "balloon",
+     "way": "balloon"
+    }
+   ]
+  },
+  {
+   "id": "r3_mountain",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the firelit cave",
+     "box": [
+      0.13,
+      0.48,
+      0.21,
+      0.38
+     ],
+     "dest": "cave",
+     "way": "cave"
+    },
+    {
+     "dir": "center",
+     "label": "Cross the rope bridge",
+     "box": [
+      0.43,
+      0.34,
+      0.22,
+      0.25
+     ],
+     "dest": "sky",
+     "way": "bridge"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the steps to the bell tower",
+     "box": [
+      0.66,
+      0.04,
+      0.2,
+      0.7
+     ],
+     "dest": "belfry",
+     "way": "belltower"
+    }
+   ]
+  },
+  {
+   "id": "r3_suburb",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Climb down the manhole",
+     "box": [
+      0.06,
+      0.62,
+      0.17,
+      0.3
+     ],
+     "dest": "sewer",
+     "way": "trapdoor"
+    },
+    {
+     "dir": "center",
+     "label": "Walk into the jungle garage",
+     "box": [
+      0.41,
+      0.36,
+      0.16,
+      0.26
+     ],
+     "dest": "jungle",
+     "way": "garage"
+    },
+    {
+     "dir": "right",
+     "label": "Step into the phone box",
+     "box": [
+      0.8,
+      0.43,
+      0.12,
+      0.32
+     ],
+     "dest": "london",
+     "way": "phonebox"
+    }
+   ]
+  },
+  {
+   "id": "r3_pink_sea",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Row the boat out",
+     "box": [
+      0.0,
+      0.6,
+      0.31,
+      0.3
+     ],
+     "dest": "beach",
+     "way": "boat"
+    },
+    {
+     "dir": "center",
+     "label": "Step into the giant shell",
+     "box": [
+      0.35,
+      0.15,
+      0.25,
+      0.43
+     ],
+     "dest": "shell",
+     "way": "shell"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the stairs out of the sea",
+     "box": [
+      0.66,
+      0.16,
+      0.15,
+      0.48
+     ],
+     "dest": "clouds",
+     "way": "stairs"
+    }
+   ]
+  },
+  {
+   "id": "r3_station",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Board the train",
+     "box": [
+      0.0,
+      0.5,
+      0.3,
+      0.4
+     ],
+     "dest": "train",
+     "way": "train"
+    },
+    {
+     "dir": "up",
+     "label": "Ride the escalator into the fog",
+     "box": [
+      0.43,
+      0.28,
+      0.17,
+      0.5
+     ],
+     "dest": "clouds",
+     "way": "escalator"
+    },
+    {
+     "dir": "down",
+     "label": "Drop into the hole of roots",
+     "box": [
+      0.65,
+      0.42,
+      0.33,
+      0.5
+     ],
+     "dest": "hollow",
+     "way": "roots"
+    }
+   ]
+  },
+  {
+   "id": "r3_museum",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the painting",
+     "box": [
+      0.06,
+      0.3,
+      0.29,
+      0.6
+     ],
+     "dest": "stormsea",
+     "way": "painting"
+    },
+    {
+     "dir": "center",
+     "label": "Walk through the dinosaur",
+     "box": [
+      0.38,
+      0.22,
+      0.17,
+      0.52
+     ],
+     "dest": "ribcage",
+     "way": "dinosaur"
+    },
+    {
+     "dir": "right",
+     "label": "Take the elevator into the sky",
+     "box": [
+      0.66,
+      0.2,
+      0.2,
+      0.68
+     ],
+     "dest": "clouds",
+     "way": "elevator"
+    }
+   ]
+  },
+  {
+   "id": "r2_pink_room",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Go up the stairs",
+     "box": [
+      0.0,
+      0.05,
+      0.3,
+      0.8
+     ],
+     "dest": "studio",
+     "way": "upstairs"
+    },
+    {
+     "dir": "right",
+     "label": "Walk the tree tunnel to the orange door",
+     "box": [
+      0.52,
+      0.06,
+      0.21,
+      0.66
+     ],
+     "dest": "tavern",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "r2_field_ufo",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Climb down the well",
+     "box": [
+      0.19,
+      0.66,
+      0.15,
+      0.22
+     ],
+     "dest": "well",
+     "way": "well"
+    },
+    {
+     "dir": "up",
+     "label": "Get beamed up into the UFO",
+     "box": [
+      0.58,
+      0.14,
+      0.15,
+      0.5
+     ],
+     "dest": "starship",
+     "way": "ufo"
+    }
+   ]
+  },
+  {
+   "id": "r2_gallery",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the painting",
+     "box": [
+      0.04,
+      0.12,
+      0.38,
+      0.69
+     ],
+     "dest": "village",
+     "way": "painting"
+    },
+    {
+     "dir": "right",
+     "label": "Climb the stairs behind the door",
+     "box": [
+      0.6,
+      0.35,
+      0.2,
+      0.5
+     ],
+     "dest": "studio",
+     "way": "upstairs"
+    }
+   ]
+  },
+  {
+   "id": "r2_whale_beach",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk into the whale",
+     "box": [
+      0.12,
+      0.18,
+      0.29,
+      0.52
+     ],
+     "dest": "whale",
+     "way": "whale"
+    },
+    {
+     "dir": "right",
+     "label": "Follow the pier to the carnival",
+     "box": [
+      0.5,
+      0.52,
+      0.36,
+      0.2
+     ],
+     "dest": "carnival",
+     "way": "pier"
+    }
+   ]
+  },
+  {
+   "id": "r2_jungle",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk into the serpent's jaws",
+     "box": [
+      0.08,
+      0.2,
+      0.3,
+      0.6
+     ],
+     "dest": "temple",
+     "way": "serpent"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the pyramid",
+     "box": [
+      0.58,
+      0.08,
+      0.2,
+      0.62
+     ],
+     "dest": "pyramid",
+     "way": "pyramid"
+    }
+   ]
+  },
+  {
+   "id": "r2_office",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the elevator",
+     "box": [
+      0.02,
+      0.17,
+      0.19,
+      0.72
+     ],
+     "dest": "office",
+     "way": "elevator"
+    },
+    {
+     "dir": "up",
+     "label": "Take the fire stairs up",
+     "box": [
+      0.66,
+      0.1,
+      0.2,
+      0.75
+     ],
+     "dest": "rooftop",
+     "way": "firestairs"
+    }
+   ]
+  },
+  {
+   "id": "r2_bedroom",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the wardrobe",
+     "box": [
+      0.05,
+      0.15,
+      0.32,
+      0.7
+     ],
+     "dest": "snowforest",
+     "way": "wardrobe"
+    },
+    {
+     "dir": "up",
+     "label": "Climb out the window to the balloon",
+     "box": [
+      0.6,
+      0.1,
+      0.24,
+      0.75
+     ],
+     "dest": "balloon",
+     "way": "balloon"
+    }
+   ]
+  },
+  {
+   "id": "r2_kitchen",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Climb into the giant teacup",
+     "box": [
+      0.0,
+      0.28,
+      0.35,
+      0.6
+     ],
+     "dest": "plate",
+     "way": "teacup"
+    },
+    {
+     "dir": "right",
+     "label": "Crawl through the mousehole",
+     "box": [
+      0.76,
+      0.6,
+      0.1,
+      0.22
+     ],
+     "dest": "kitchen",
+     "way": "mousehole"
+    }
+   ]
+  },
+  {
+   "id": "r2_cave",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Squeeze through the crack of daylight",
+     "box": [
+      0.17,
+      0.0,
+      0.1,
+      0.58
+     ],
+     "dest": "village",
+     "way": "crack"
+    },
+    {
+     "dir": "right",
+     "label": "Take the boat into the dark",
+     "box": [
+      0.62,
+      0.3,
+      0.36,
+      0.56
+     ],
+     "dest": "seacave",
+     "way": "boat"
+    }
+   ]
+  },
+  {
+   "id": "r1_void_stair",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Climb into the dark",
+     "box": [
+      0.2,
+      0.0,
+      0.45,
+      0.86
+     ],
+     "dest": "void"
+    }
+   ]
+  },
+  {
+   "id": "r1_campfire",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Walk toward the fire",
+     "box": [
+      0.48,
+      0.4,
+      0.16,
+      0.36
+     ],
+     "dest": "tavern"
+    }
+   ]
+  },
+  {
+   "id": "r1_corridor",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Open the great door",
+     "box": [
+      0.41,
+      0.3,
+      0.18,
+      0.45
+     ],
+     "dest": "supermarket",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "s_crossroads",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the road to the red desert",
+     "box": [
+      0.04,
+      0.38,
+      0.32,
+      0.32
+     ],
+     "next": "r3_desert_bones"
+    },
+    {
+     "dir": "center",
+     "label": "Take the road to the city",
+     "box": [
+      0.42,
+      0.42,
+      0.17,
+      0.26
+     ],
+     "next": "r3_rooftops"
+    },
+    {
+     "dir": "right",
+     "label": "Take the road to the sky stairs",
+     "box": [
+      0.78,
+      0.3,
+      0.18,
+      0.4
+     ],
+     "next": "r3_pink_sea"
+    }
+   ]
+  },
+  {
+   "id": "s_station",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Board the steam train",
+     "box": [
+      0.07,
+      0.27,
+      0.26,
+      0.45
+     ],
+     "next": "r3_mountain"
+    },
+    {
+     "dir": "center",
+     "label": "Board the bullet train",
+     "box": [
+      0.41,
+      0.38,
+      0.17,
+      0.33
+     ],
+     "next": "r3_station"
+    },
+    {
+     "dir": "right",
+     "label": "Board the carnival train",
+     "box": [
+      0.67,
+      0.33,
+      0.25,
+      0.4
+     ],
+     "next": "r3_circus"
+    }
+   ]
+  },
+  {
+   "id": "s_lighthouse",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk the light to the island",
+     "box": [
+      0.1,
+      0.38,
+      0.26,
+      0.34
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the light to the sun",
+     "box": [
+      0.44,
+      0.4,
+      0.14,
+      0.4
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Walk the light to the cliffs",
+     "box": [
+      0.7,
+      0.36,
+      0.28,
+      0.36
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_meadow",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step through the red door",
+     "box": [
+      0.09,
+      0.25,
+      0.16,
+      0.47
+     ],
+     "next": "r3_museum"
+    },
+    {
+     "dir": "center",
+     "label": "Step through the white door",
+     "box": [
+      0.42,
+      0.25,
+      0.16,
+      0.47
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Step through the blue door",
+     "box": [
+      0.75,
+      0.25,
+      0.18,
+      0.47
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_rooftop",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Take the fire escape",
+     "box": [
+      0.12,
+      0.58,
+      0.17,
+      0.22
+     ],
+     "next": "r3_plaza"
+    },
+    {
+     "dir": "center",
+     "label": "Ride the zipline",
+     "box": [
+      0.42,
+      0.2,
+      0.23,
+      0.38
+     ],
+     "next": "r3_rooftops"
+    },
+    {
+     "dir": "up",
+     "label": "Climb to the balloon",
+     "box": [
+      0.72,
+      0.04,
+      0.16,
+      0.5
+     ],
+     "next": "r3_forest"
+    }
+   ]
+  },
+  {
+   "id": "s_ice",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk toward the red mountain",
+     "box": [
+      0.05,
+      0.31,
+      0.3,
+      0.37
+     ],
+     "next": "r3_desert_bones"
+    },
+    {
+     "dir": "center",
+     "label": "Walk toward the white mountain",
+     "box": [
+      0.4,
+      0.31,
+      0.2,
+      0.4
+     ],
+     "next": "r3_mountain"
+    },
+    {
+     "dir": "right",
+     "label": "Walk toward the blue mountain",
+     "box": [
+      0.66,
+      0.31,
+      0.3,
+      0.37
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_courtyard",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go through the wooden gate",
+     "box": [
+      0.04,
+      0.2,
+      0.24,
+      0.5
+     ],
+     "next": "r3_plaza"
+    },
+    {
+     "dir": "center",
+     "label": "Go through the golden gate",
+     "box": [
+      0.41,
+      0.24,
+      0.2,
+      0.46
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "right",
+     "label": "Go through the stone gate",
+     "box": [
+      0.72,
+      0.23,
+      0.24,
+      0.49
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_cloudship",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Cross to the castle island",
+     "box": [
+      0.05,
+      0.18,
+      0.26,
+      0.54
+     ],
+     "next": "r3_library"
+    },
+    {
+     "dir": "center",
+     "label": "Cross to the glass city",
+     "box": [
+      0.37,
+      0.12,
+      0.25,
+      0.6
+     ],
+     "next": "r3_station"
+    },
+    {
+     "dir": "right",
+     "label": "Cross to the jungle island",
+     "box": [
+      0.69,
+      0.22,
+      0.28,
+      0.5
+     ],
+     "next": "r3_forest"
+    }
+   ]
+  },
+  {
+   "id": "r1_keyhole",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Step through the keyhole",
+     "box": [
+      0.43,
+      0.15,
+      0.18,
+      0.7
+     ],
+     "dest": "playa",
+     "way": "keyhole"
+    }
+   ]
+  },
+  {
+   "id": "r1_rainbow",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Cross the rainbow bridge",
+     "box": [
+      0.28,
+      0.25,
+      0.46,
+      0.55
+     ],
+     "dest": "castletown",
+     "way": "rainbow"
+    }
+   ]
+  },
+  {
+   "id": "r1_ribcage",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Walk through the ribcage",
+     "box": [
+      0.33,
+      0.25,
+      0.34,
+      0.5
+     ],
+     "dest": "ribcage",
+     "way": "ribs"
+    }
+   ]
+  },
+  {
+   "id": "r2_canyon",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Ride the mine cart into the tunnel",
+     "box": [
+      0.02,
+      0.17,
+      0.34,
+      0.38
+     ],
+     "dest": "mine",
+     "way": "minecart"
+    },
+    {
+     "dir": "right",
+     "label": "Cross the rope bridge",
+     "box": [
+      0.56,
+      0.26,
+      0.37,
+      0.27
+     ],
+     "dest": "dunes",
+     "way": "bridge"
+    }
+   ]
+  }
+ ]
+}

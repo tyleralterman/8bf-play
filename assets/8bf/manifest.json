@@ -1,0 +1,2323 @@
+{
+ "cards": [
+  "afterparty",
+  "art-car",
+  "automate",
+  "bag-of-tricks",
+  "bar-fight",
+  "bass-face",
+  "bazooka",
+  "big-data",
+  "biohack",
+  "blitzscale",
+  "blood-money",
+  "bottomless-hat",
+  "breathwork",
+  "brick-supply",
+  "broadcast",
+  "burn-the-man",
+  "burning-bush",
+  "call-to-adventure",
+  "card-up-sleeve",
+  "cash-out",
+  "charnel-ground",
+  "chill-tent",
+  "chod",
+  "clean-cut",
+  "clear-light",
+  "cliche",
+  "coin-trick",
+  "communal-effort",
+  "contact-high",
+  "cornerstone",
+  "crazy-wisdom",
+  "cringe",
+  "crowd-surge",
+  "culture-jam",
+  "curved-knife",
+  "dance-floor",
+  "dart",
+  "debt-collector",
+  "defend",
+  "deus-ex-machina",
+  "discernment",
+  "disrupt",
+  "diss-track",
+  "double-barrel",
+  "double-down",
+  "dramatic-entrance",
+  "dread",
+  "drone",
+  "drop-the-beat",
+  "drop-the-rope",
+  "dry-bones",
+  "due-diligence",
+  "earn-to-give",
+  "effective-altruism",
+  "electric-guitar",
+  "elixir",
+  "ennui",
+  "expected-value",
+  "fatal-flaw",
+  "feedback-loop",
+  "fierce-compassion",
+  "fierce-mercy",
+  "fine-print",
+  "fire-poi",
+  "flame-war",
+  "flow-state",
+  "foreshadowing",
+  "free-hugs",
+  "free-party",
+  "funhouse-mirror",
+  "gleaming-blade",
+  "glitter-bomb",
+  "good-arm",
+  "gospel-of-wealth",
+  "graffiti",
+  "grand-entrance",
+  "grand-larceny",
+  "grapevine",
+  "groove",
+  "growth-hack",
+  "hand-drum",
+  "hangover",
+  "heckle",
+  "heroic-lunge",
+  "hope-and-fear",
+  "hostile-takeover",
+  "hot-take",
+  "hug-it-out",
+  "hula-hoop",
+  "humble-origins",
+  "hustle",
+  "imposter",
+  "imposter-syndrome",
+  "jar-of-manna",
+  "juggle",
+  "khatvanga",
+  "laptop",
+  "lasso",
+  "late-fees",
+  "leave-it-as-it-is",
+  "let-go",
+  "lions-den",
+  "look-directly",
+  "lose-yourself",
+  "lucky-break",
+  "manifest-destiny",
+  "manna",
+  "meet-the-mentor",
+  "megaphone",
+  "mercy",
+  "microdose",
+  "mirror-of-mind",
+  "monologue",
+  "moonshot",
+  "name-and-shame",
+  "no-gods",
+  "no-gods-no-masters",
+  "no-pain-no-gain",
+  "nobody-special",
+  "nostalgia",
+  "now-you-see-me",
+  "overclock",
+  "paintbrush",
+  "parley",
+  "part-the-sea",
+  "party-favor",
+  "payday-loan",
+  "phat",
+  "picket-line",
+  "pickpocket",
+  "pie-in-the-face",
+  "pilgrimage",
+  "pillar-of-cloud",
+  "ping",
+  "plot-armor",
+  "pratfall",
+  "prayer",
+  "prosperity-gospel",
+  "proverb",
+  "psalm",
+  "pull-the-rug",
+  "pump-iron",
+  "put-the-boot-in",
+  "radical-inclusion",
+  "refusal-of-the-call",
+  "refuse-the-call",
+  "righteous-fury",
+  "riot",
+  "road-rage",
+  "rock-of-ages",
+  "rubber-chicken",
+  "rule-of-three",
+  "sabbath",
+  "sand-mandala",
+  "scaling-law",
+  "second-wind",
+  "self-liberation",
+  "shell-game",
+  "shelter",
+  "shepherds-crook",
+  "ship-it",
+  "singularity",
+  "skull-cup",
+  "sky-goer",
+  "slay-her",
+  "sledgehammer",
+  "small-talk",
+  "smoke-and-mirrors",
+  "solidarity",
+  "spiral",
+  "spit",
+  "spread-rumors",
+  "squat",
+  "stage-dive",
+  "stampede",
+  "strike",
+  "subprime",
+  "sunrise",
+  "sweat-equity",
+  "swindle",
+  "swords-to-plows",
+  "tablets",
+  "takedown",
+  "tax-season",
+  "ten-x-engineer",
+  "the-drop",
+  "tornado-alley",
+  "tracking-cookie",
+  "training-arc",
+  "training-montage",
+  "trapdoor",
+  "turn-the-other-cheek",
+  "two-by-two",
+  "upstage",
+  "vigil",
+  "whisper-network",
+  "wink",
+  "wrecking-ball",
+  "writ-on-water",
+  "writers-block",
+  "writing-on-water"
+ ],
+ "bg": [
+  "bg_balloon",
+  "bg_beach",
+  "bg_belfry",
+  "bg_bigtop",
+  "bg_bridge",
+  "bg_carnival",
+  "bg_castletown",
+  "bg_catacombs",
+  "bg_cathedral",
+  "bg_cave",
+  "bg_clouds",
+  "bg_dunes",
+  "bg_galilee",
+  "bg_hollow",
+  "bg_jungle",
+  "bg_kitchen",
+  "bg_lab",
+  "bg_library",
+  "bg_london",
+  "bg_mine",
+  "bg_mirrors",
+  "bg_office",
+  "bg_pier",
+  "bg_plains",
+  "bg_plate",
+  "bg_playa",
+  "bg_pyramid",
+  "bg_ribcage",
+  "bg_road",
+  "bg_rooftop",
+  "bg_seacave",
+  "bg_sewer",
+  "bg_shell",
+  "bg_sky",
+  "bg_snowforest",
+  "bg_space",
+  "bg_starship",
+  "bg_stormsea",
+  "bg_studio",
+  "bg_subway",
+  "bg_supermarket",
+  "bg_tavern",
+  "bg_temple",
+  "bg_train",
+  "bg_village",
+  "bg_villagefire",
+  "bg_well",
+  "bg_whale"
+ ],
+ "gods": [
+  "face_american",
+  "face_burner",
+  "face_dakini",
+  "face_messiah",
+  "face_optimizer",
+  "face_punk",
+  "face_trickster",
+  "god_american",
+  "god_burner",
+  "god_dakini",
+  "god_messiah",
+  "god_optimizer",
+  "god_punk",
+  "god_trickster"
+ ],
+ "enemies": [
+  "en_accordion",
+  "en_baby",
+  "en_centaur",
+  "en_chair",
+  "en_comments",
+  "en_cupid",
+  "en_cyclops",
+  "en_dark-lord",
+  "en_desk",
+  "en_doomscroller",
+  "en_dragon",
+  "en_espresso",
+  "en_family",
+  "en_feed",
+  "en_franchise",
+  "en_mentor",
+  "en_mentor_ally",
+  "en_mentor_yield",
+  "en_minotaur",
+  "en_ned",
+  "en_nutcracker",
+  "en_officeduo",
+  "en_officer",
+  "en_pear",
+  "en_petey",
+  "en_pizzaknight",
+  "en_princess_tripled",
+  "en_princess_unfolded",
+  "en_reaper",
+  "en_remake",
+  "en_sadone",
+  "en_shark",
+  "en_spaghetti",
+  "en_vampire",
+  "en_void",
+  "en_void-prelude",
+  "en_whistler"
+ ],
+ "vista": [
+  "cut_balloon",
+  "cut_dragon",
+  "cut_planet",
+  "cut_ufo",
+  "cut_whale",
+  "inn",
+  "market",
+  "muse",
+  "mystery_dinner-plate",
+  "mystery_doomer-choir",
+  "mystery_effigy",
+  "mystery_forgotten-gods",
+  "mystery_other-side",
+  "mystery_sphinx",
+  "mystery_teenager",
+  "mystery_three-doors",
+  "mystery_wedding",
+  "mystery_window",
+  "realm_american",
+  "realm_burner",
+  "realm_dakini",
+  "realm_messiah",
+  "realm_optimizer",
+  "realm_punk",
+  "realm_trickster",
+  "title_mythos"
+ ],
+ "story": [
+  "cave-wall_0",
+  "cave-wall_1",
+  "cave-wall_2",
+  "commedia_0",
+  "commedia_1",
+  "commedia_2",
+  "dragon-friend_0",
+  "dragon-friend_1",
+  "dragon-friend_2",
+  "dragon-friend_3",
+  "eight-billion-faces_0",
+  "eight-billion-faces_1",
+  "eight-billion-faces_2",
+  "eight-billion-faces_3",
+  "first-story_0",
+  "first-story_1",
+  "first-story_2",
+  "first-story_3",
+  "garden_0",
+  "garden_1",
+  "garden_2",
+  "letters_0",
+  "letters_1",
+  "letters_2",
+  "lighthouse_0",
+  "lighthouse_1",
+  "lighthouse_2",
+  "mars-kitchen_0",
+  "mars-kitchen_1",
+  "mars-kitchen_2",
+  "moving-day_0",
+  "moving-day_1",
+  "moving-day_2",
+  "night-shift_0",
+  "night-shift_1",
+  "night-shift_2",
+  "observatory_0",
+  "observatory_1",
+  "observatory_2",
+  "savoy_0",
+  "savoy_1",
+  "savoy_2",
+  "she-comes-back_0",
+  "she-comes-back_1",
+  "she-comes-back_2",
+  "she-comes-back_3",
+  "spice-bazaar_0",
+  "spice-bazaar_1",
+  "spice-bazaar_2",
+  "sunday-pie_0",
+  "sunday-pie_1",
+  "sunday-pie_2",
+  "terraces_0",
+  "terraces_1",
+  "terraces_2",
+  "the-leaving_0",
+  "the-leaving_1",
+  "the-leaving_2",
+  "the-leaving_3",
+  "the-pact_0",
+  "the-pact_1",
+  "the-pact_2",
+  "the-pact_3",
+  "wedding-day_0",
+  "wedding-day_1",
+  "wedding-day_2",
+  "who-are-you-today_0",
+  "who-are-you-today_1",
+  "who-are-you-today_2",
+  "who-are-you-today_3"
+ ],
+ "princess": [
+  "phantom",
+  "phantom_tease",
+  "phantom_tender",
+  "sight_chrysalis",
+  "sight_chrysalis_b",
+  "sight_doors",
+  "sight_doors_b",
+  "sight_hands",
+  "sight_hands_b",
+  "sight_hill",
+  "sight_hill_b",
+  "sight_lamp",
+  "sight_lamp_b",
+  "sight_oldest-girl",
+  "sight_oldest-girl_b",
+  "sight_rain",
+  "sight_stars",
+  "void_princess",
+  "void_princess_sure",
+  "void_princess_tender",
+  "void_unmasked"
+ ],
+ "intro": [
+  "cameo_cassandra",
+  "cameo_princess_shrouded",
+  "card_energy_defend",
+  "card_energy_strike",
+  "card_energy_sweep",
+  "card_not_like_this",
+  "i1_boy_haystack",
+  "i1_dissolve_hands",
+  "i1_dissolve_neck",
+  "i1_void_face",
+  "i1_void_fall",
+  "i1_void_rise",
+  "i1_void_struck",
+  "i1_void_swing",
+  "i1_void_swing2",
+  "i1_void_wake",
+  "i1_void_walk",
+  "i2_boy_dreams",
+  "i2_boy_wakes",
+  "i2_ma_eyeroll",
+  "i2_ma_tower",
+  "i3_american_sky",
+  "i3_disarmed",
+  "i3_mentor_drunk",
+  "i3_sky_scrubbed",
+  "i3_training_montage",
+  "i4_burner_waves",
+  "i4_celebration",
+  "i4_dark_shape",
+  "i4_dragon_fire",
+  "i4_dragon_west",
+  "i4_flash_laugh",
+  "i4_hero_ashes",
+  "i4_hero_grown",
+  "i4_hero_rides",
+  "i4_mentor_points_east",
+  "i4_princess_flash",
+  "i4_squint",
+  "i4_stares_west",
+  "i4_village_burns",
+  "i4_villager_screams",
+  "i5_hero_shouts",
+  "i5_rides_west",
+  "i5_sky_mouth",
+  "i6_arrives_town",
+  "i6_begs_sky",
+  "i6_dragon_grieves",
+  "i6_dragon_looms",
+  "i6_engulfed",
+  "i6_faces_peel",
+  "i6_her_face",
+  "i6_her_face_pierced",
+  "i6_her_last",
+  "i6_mythos_breaks",
+  "i6_pierce_her",
+  "i6_pierces",
+  "i6_scream",
+  "i6_she_dies",
+  "i6_sky_cracks",
+  "ii10_awe",
+  "ii10_gods_pour",
+  "ii10_mythos_floods",
+  "ii10_portal_shatters",
+  "ii10_pupil",
+  "ii10_sword_screen",
+  "ii7_cockpit",
+  "ii7_cut_hull",
+  "ii7_dakini_crack",
+  "ii7_enter",
+  "ii7_portal_window",
+  "ii7_ship_lands",
+  "ii7_space_battle",
+  "ii8_dark_lord_arrives",
+  "ii8_dark_lord_arrives2",
+  "ii8_mentor_falls",
+  "ii8_petey_dies",
+  "ii8_quick_work",
+  "ii8_quick_work2",
+  "ii9_cassandra_asks",
+  "ii9_family",
+  "ii9_princess_leaps",
+  "ii9_princess_portal",
+  "ii9_princess_who",
+  "ii9_princess_who2",
+  "inf_beach_awe",
+  "inf_collapse",
+  "inf_gate_arm",
+  "inf_gods_horizon",
+  "inf_her_frightened",
+  "inf_her_tender",
+  "inf_kiss",
+  "inf_pulled_apart",
+  "inf_remember",
+  "inf_run",
+  "inf_sees_her",
+  "inf_sky_arm",
+  "inf_tender",
+  "inf_tentacle",
+  "intro_void_bg"
+ ],
+ "ui": [
+  "glimpse"
+ ],
+ "hero": [
+  "h_attack",
+  "h_back",
+  "h_backatk",
+  "h_block",
+  "h_bow",
+  "h_cards",
+  "h_cast",
+  "h_dodge",
+  "h_down",
+  "h_guard",
+  "h_hit",
+  "h_idle",
+  "h_lantern",
+  "h_leap",
+  "h_lunge",
+  "h_ots",
+  "h_ots_r",
+  "h_run",
+  "h_scifi",
+  "h_shield",
+  "h_spin",
+  "h_storybook",
+  "h_win",
+  "look_act1",
+  "look_act1__attack",
+  "look_act1__block",
+  "look_act1__cast",
+  "look_act1__dodge",
+  "look_act1__hurt",
+  "look_act1__kneel",
+  "look_act1__stance_fence",
+  "look_act1__stance_guard",
+  "look_act1__stance_low",
+  "look_act1__stance_shoulder",
+  "look_act1__stance_weary",
+  "look_act1__victory",
+  "look_act1__windup",
+  "look_act2",
+  "look_act2__attack",
+  "look_act2__block",
+  "look_act2__cast",
+  "look_act2__dodge",
+  "look_act2__hurt",
+  "look_act2__kneel",
+  "look_act2__stance_fence",
+  "look_act2__stance_guard",
+  "look_act2__stance_low",
+  "look_act2__stance_shoulder",
+  "look_act2__stance_weary",
+  "look_act2__victory",
+  "look_act2__windup",
+  "look_american",
+  "look_american__attack",
+  "look_american__block",
+  "look_american__cast",
+  "look_american__dodge",
+  "look_american__hurt",
+  "look_american__victory",
+  "look_base",
+  "look_base__attack",
+  "look_base__block",
+  "look_base__cast",
+  "look_base__dodge",
+  "look_base__hurt",
+  "look_base__kneel",
+  "look_base__stance_fence",
+  "look_base__stance_guard",
+  "look_base__stance_low",
+  "look_base__stance_shoulder",
+  "look_base__stance_weary",
+  "look_base__victory",
+  "look_base__windup",
+  "look_burner",
+  "look_burner__attack",
+  "look_burner__block",
+  "look_burner__cast",
+  "look_burner__dodge",
+  "look_burner__hurt",
+  "look_burner__victory",
+  "look_dakini",
+  "look_dakini__attack",
+  "look_dakini__block",
+  "look_dakini__cast",
+  "look_dakini__dodge",
+  "look_dakini__hurt",
+  "look_dakini__victory",
+  "look_messiah",
+  "look_messiah__attack",
+  "look_messiah__block",
+  "look_messiah__cast",
+  "look_messiah__dodge",
+  "look_messiah__hurt",
+  "look_messiah__victory",
+  "look_optimizer",
+  "look_optimizer__attack",
+  "look_optimizer__block",
+  "look_optimizer__cast",
+  "look_optimizer__dodge",
+  "look_optimizer__hurt",
+  "look_optimizer__victory",
+  "look_patchwork",
+  "look_patchwork__attack",
+  "look_patchwork__block",
+  "look_patchwork__cast",
+  "look_patchwork__dodge",
+  "look_patchwork__hurt",
+  "look_patchwork__kneel",
+  "look_patchwork__stance_fence",
+  "look_patchwork__stance_guard",
+  "look_patchwork__stance_low",
+  "look_patchwork__stance_shoulder",
+  "look_patchwork__stance_weary",
+  "look_patchwork__victory",
+  "look_patchwork__windup",
+  "look_punk",
+  "look_punk__attack",
+  "look_punk__block",
+  "look_punk__cast",
+  "look_punk__dodge",
+  "look_punk__hurt",
+  "look_punk__victory",
+  "look_trickster",
+  "look_trickster__attack",
+  "look_trickster__block",
+  "look_trickster__cast",
+  "look_trickster__dodge",
+  "look_trickster__hurt",
+  "look_trickster__victory"
+ ],
+ "paths": [
+  "r1_campfire",
+  "r1_corridor",
+  "r1_keyhole",
+  "r1_rainbow",
+  "r1_ribcage",
+  "r1_void_stair",
+  "r2_bedroom",
+  "r2_canyon",
+  "r2_cave",
+  "r2_field_ufo",
+  "r2_gallery",
+  "r2_jungle",
+  "r2_kitchen",
+  "r2_office",
+  "r2_pink_room",
+  "r2_whale_beach",
+  "r3_beach_ufo",
+  "r3_circus",
+  "r3_desert_bones",
+  "r3_forest",
+  "r3_library",
+  "r3_mountain",
+  "r3_museum",
+  "r3_pink_sea",
+  "r3_plaza",
+  "r3_rooftops",
+  "r3_station",
+  "r3_suburb",
+  "s_beach",
+  "s_cloudship",
+  "s_courtyard",
+  "s_crossroads",
+  "s_ice",
+  "s_lighthouse",
+  "s_meadow",
+  "s_rooftop",
+  "s_station"
+ ],
+ "faces": [
+  "face_hero_0",
+  "face_hero_1",
+  "face_hero_10",
+  "face_hero_11",
+  "face_hero_12",
+  "face_hero_13",
+  "face_hero_14",
+  "face_hero_15",
+  "face_hero_16",
+  "face_hero_17",
+  "face_hero_18",
+  "face_hero_19",
+  "face_hero_2",
+  "face_hero_20",
+  "face_hero_21",
+  "face_hero_22",
+  "face_hero_23",
+  "face_hero_24",
+  "face_hero_3",
+  "face_hero_4",
+  "face_hero_5",
+  "face_hero_6",
+  "face_hero_7",
+  "face_hero_8",
+  "face_hero_9",
+  "face_princess_0",
+  "face_princess_1",
+  "face_princess_10",
+  "face_princess_11",
+  "face_princess_12",
+  "face_princess_13",
+  "face_princess_14",
+  "face_princess_15",
+  "face_princess_16",
+  "face_princess_17",
+  "face_princess_18",
+  "face_princess_19",
+  "face_princess_2",
+  "face_princess_20",
+  "face_princess_21",
+  "face_princess_22",
+  "face_princess_23",
+  "face_princess_24",
+  "face_princess_3",
+  "face_princess_4",
+  "face_princess_5",
+  "face_princess_6",
+  "face_princess_7",
+  "face_princess_8",
+  "face_princess_9"
+ ],
+ "items": [
+  "art-car",
+  "bazooka",
+  "curved-knife",
+  "drone",
+  "electric-guitar",
+  "elixir",
+  "fire-poi",
+  "funhouse-mirror",
+  "jar-of-manna",
+  "laptop",
+  "lasso",
+  "megaphone",
+  "mirror-of-mind",
+  "paintbrush",
+  "rubber-chicken",
+  "shepherds-crook"
+ ],
+ "pathScenes": [
+  {
+   "id": "r3_plaza",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the subway",
+     "box": [
+      0.08,
+      0.37,
+      0.22,
+      0.5
+     ],
+     "dest": "subway",
+     "way": "subway"
+    },
+    {
+     "dir": "center",
+     "label": "Walk into the mouth of the whale",
+     "box": [
+      0.41,
+      0.21,
+      0.18,
+      0.53
+     ],
+     "dest": "whale",
+     "way": "whale"
+    },
+    {
+     "dir": "right",
+     "label": "Step through the break in reality",
+     "box": [
+      0.735,
+      0.35,
+      0.21,
+      0.4
+     ],
+     "dest": "dunes",
+     "way": "rift"
+    }
+   ]
+  },
+  {
+   "id": "r3_desert_bones",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Climb through the ribs of the giant",
+     "box": [
+      0.02,
+      0.25,
+      0.38,
+      0.52
+     ],
+     "dest": "ribcage",
+     "way": "ribs"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the stairway into the clouds",
+     "box": [
+      0.43,
+      0.17,
+      0.17,
+      0.47
+     ],
+     "dest": "clouds",
+     "way": "stairs"
+    },
+    {
+     "dir": "right",
+     "label": "Open the blue door",
+     "box": [
+      0.77,
+      0.42,
+      0.12,
+      0.42
+     ],
+     "dest": "village",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "r3_beach_ufo",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the sea cave",
+     "box": [
+      0.09,
+      0.4,
+      0.22,
+      0.38
+     ],
+     "dest": "seacave",
+     "way": "cave"
+    },
+    {
+     "dir": "center",
+     "label": "Walk out along the pier",
+     "box": [
+      0.34,
+      0.34,
+      0.33,
+      0.27
+     ],
+     "dest": "pier",
+     "way": "pier"
+    },
+    {
+     "dir": "up",
+     "label": "Get beamed up into the UFO",
+     "box": [
+      0.74,
+      0.24,
+      0.17,
+      0.37
+     ],
+     "dest": "starship",
+     "way": "ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_beach",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Cross the bridge of light to the island",
+     "box": [
+      0.1,
+      0.33,
+      0.31,
+      0.2
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the road of light into the sun",
+     "box": [
+      0.44,
+      0.27,
+      0.14,
+      0.23
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Cross the bridge of light to the lighthouse",
+     "box": [
+      0.67,
+      0.3,
+      0.3,
+      0.22
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "r3_library",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Climb the spiral stairs",
+     "box": [
+      0.0,
+      0.3,
+      0.31,
+      0.52
+     ],
+     "dest": "library",
+     "way": "spiral"
+    },
+    {
+     "dir": "center",
+     "label": "Follow the shelves to the glowing arch",
+     "box": [
+      0.42,
+      0.12,
+      0.17,
+      0.5
+     ],
+     "dest": "cathedral",
+     "way": "arch"
+    },
+    {
+     "dir": "down",
+     "label": "Go down through the trapdoor",
+     "box": [
+      0.68,
+      0.44,
+      0.3,
+      0.46
+     ],
+     "dest": "catacombs",
+     "way": "trapdoor"
+    }
+   ]
+  },
+  {
+   "id": "r3_circus",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the circus tent",
+     "box": [
+      0.08,
+      0.4,
+      0.33,
+      0.36
+     ],
+     "dest": "bigtop",
+     "way": "tent"
+    },
+    {
+     "dir": "up",
+     "label": "Walk the tightrope",
+     "box": [
+      0.41,
+      0.15,
+      0.37,
+      0.33
+     ],
+     "dest": "carnival",
+     "way": "tightrope"
+    },
+    {
+     "dir": "down",
+     "label": "Climb down through the trapdoor",
+     "box": [
+      0.65,
+      0.53,
+      0.33,
+      0.3
+     ],
+     "dest": "mirrors",
+     "way": "trapdoor"
+    }
+   ]
+  },
+  {
+   "id": "r3_rooftops",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Take the fire escape down",
+     "box": [
+      0.0,
+      0.15,
+      0.18,
+      0.8
+     ],
+     "dest": "london",
+     "way": "fireescape"
+    },
+    {
+     "dir": "center",
+     "label": "Cross the footbridge",
+     "box": [
+      0.42,
+      0.48,
+      0.17,
+      0.3
+     ],
+     "dest": "rooftop",
+     "way": "bridge"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the water tower",
+     "box": [
+      0.73,
+      0.06,
+      0.19,
+      0.66
+     ],
+     "dest": "rooftop",
+     "way": "tower"
+    }
+   ]
+  },
+  {
+   "id": "r3_forest",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Crawl into the hollow tree",
+     "box": [
+      0.07,
+      0.58,
+      0.16,
+      0.34
+     ],
+     "dest": "hollow",
+     "way": "hollow"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the tunnel of trees to the orange door",
+     "box": [
+      0.41,
+      0.28,
+      0.14,
+      0.32
+     ],
+     "dest": "tavern",
+     "way": "door"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the ladder to the balloon",
+     "box": [
+      0.6,
+      0.0,
+      0.13,
+      0.72
+     ],
+     "dest": "balloon",
+     "way": "balloon"
+    }
+   ]
+  },
+  {
+   "id": "r3_mountain",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go into the firelit cave",
+     "box": [
+      0.13,
+      0.48,
+      0.21,
+      0.38
+     ],
+     "dest": "cave",
+     "way": "cave"
+    },
+    {
+     "dir": "center",
+     "label": "Cross the rope bridge",
+     "box": [
+      0.43,
+      0.34,
+      0.22,
+      0.25
+     ],
+     "dest": "sky",
+     "way": "bridge"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the steps to the bell tower",
+     "box": [
+      0.66,
+      0.04,
+      0.2,
+      0.7
+     ],
+     "dest": "belfry",
+     "way": "belltower"
+    }
+   ]
+  },
+  {
+   "id": "r3_suburb",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Climb down the manhole",
+     "box": [
+      0.06,
+      0.62,
+      0.17,
+      0.3
+     ],
+     "dest": "sewer",
+     "way": "trapdoor"
+    },
+    {
+     "dir": "center",
+     "label": "Walk into the jungle garage",
+     "box": [
+      0.41,
+      0.36,
+      0.16,
+      0.26
+     ],
+     "dest": "jungle",
+     "way": "garage"
+    },
+    {
+     "dir": "right",
+     "label": "Step into the phone box",
+     "box": [
+      0.8,
+      0.43,
+      0.12,
+      0.32
+     ],
+     "dest": "london",
+     "way": "phonebox"
+    }
+   ]
+  },
+  {
+   "id": "r3_pink_sea",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Row the boat out",
+     "box": [
+      0.0,
+      0.6,
+      0.31,
+      0.3
+     ],
+     "dest": "beach",
+     "way": "boat"
+    },
+    {
+     "dir": "center",
+     "label": "Step into the giant shell",
+     "box": [
+      0.35,
+      0.15,
+      0.25,
+      0.43
+     ],
+     "dest": "shell",
+     "way": "shell"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the stairs out of the sea",
+     "box": [
+      0.66,
+      0.16,
+      0.15,
+      0.48
+     ],
+     "dest": "clouds",
+     "way": "stairs"
+    }
+   ]
+  },
+  {
+   "id": "r3_station",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Board the train",
+     "box": [
+      0.0,
+      0.5,
+      0.3,
+      0.4
+     ],
+     "dest": "train",
+     "way": "train"
+    },
+    {
+     "dir": "up",
+     "label": "Ride the escalator into the fog",
+     "box": [
+      0.43,
+      0.28,
+      0.17,
+      0.5
+     ],
+     "dest": "clouds",
+     "way": "escalator"
+    },
+    {
+     "dir": "down",
+     "label": "Drop into the hole of roots",
+     "box": [
+      0.65,
+      0.42,
+      0.33,
+      0.5
+     ],
+     "dest": "hollow",
+     "way": "roots"
+    }
+   ]
+  },
+  {
+   "id": "r3_museum",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the painting",
+     "box": [
+      0.06,
+      0.3,
+      0.29,
+      0.6
+     ],
+     "dest": "stormsea",
+     "way": "painting"
+    },
+    {
+     "dir": "center",
+     "label": "Walk through the dinosaur",
+     "box": [
+      0.38,
+      0.22,
+      0.17,
+      0.52
+     ],
+     "dest": "ribcage",
+     "way": "dinosaur"
+    },
+    {
+     "dir": "right",
+     "label": "Take the elevator into the sky",
+     "box": [
+      0.66,
+      0.2,
+      0.2,
+      0.68
+     ],
+     "dest": "clouds",
+     "way": "elevator"
+    }
+   ]
+  },
+  {
+   "id": "r2_pink_room",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Go up the stairs",
+     "box": [
+      0.0,
+      0.05,
+      0.3,
+      0.8
+     ],
+     "dest": "studio",
+     "way": "upstairs"
+    },
+    {
+     "dir": "right",
+     "label": "Walk the tree tunnel to the orange door",
+     "box": [
+      0.52,
+      0.06,
+      0.21,
+      0.66
+     ],
+     "dest": "tavern",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "r2_field_ufo",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Climb down the well",
+     "box": [
+      0.19,
+      0.66,
+      0.15,
+      0.22
+     ],
+     "dest": "well",
+     "way": "well"
+    },
+    {
+     "dir": "up",
+     "label": "Get beamed up into the UFO",
+     "box": [
+      0.58,
+      0.14,
+      0.15,
+      0.5
+     ],
+     "dest": "starship",
+     "way": "ufo"
+    }
+   ]
+  },
+  {
+   "id": "r2_gallery",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the painting",
+     "box": [
+      0.04,
+      0.12,
+      0.38,
+      0.69
+     ],
+     "dest": "village",
+     "way": "painting"
+    },
+    {
+     "dir": "right",
+     "label": "Climb the stairs behind the door",
+     "box": [
+      0.6,
+      0.35,
+      0.2,
+      0.5
+     ],
+     "dest": "studio",
+     "way": "upstairs"
+    }
+   ]
+  },
+  {
+   "id": "r2_whale_beach",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk into the whale",
+     "box": [
+      0.12,
+      0.18,
+      0.29,
+      0.52
+     ],
+     "dest": "whale",
+     "way": "whale"
+    },
+    {
+     "dir": "right",
+     "label": "Follow the pier to the carnival",
+     "box": [
+      0.5,
+      0.52,
+      0.36,
+      0.2
+     ],
+     "dest": "carnival",
+     "way": "pier"
+    }
+   ]
+  },
+  {
+   "id": "r2_jungle",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk into the serpent's jaws",
+     "box": [
+      0.08,
+      0.2,
+      0.3,
+      0.6
+     ],
+     "dest": "temple",
+     "way": "serpent"
+    },
+    {
+     "dir": "up",
+     "label": "Climb the pyramid",
+     "box": [
+      0.58,
+      0.08,
+      0.2,
+      0.62
+     ],
+     "dest": "pyramid",
+     "way": "pyramid"
+    }
+   ]
+  },
+  {
+   "id": "r2_office",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the elevator",
+     "box": [
+      0.02,
+      0.17,
+      0.19,
+      0.72
+     ],
+     "dest": "office",
+     "way": "elevator"
+    },
+    {
+     "dir": "up",
+     "label": "Take the fire stairs up",
+     "box": [
+      0.66,
+      0.1,
+      0.2,
+      0.75
+     ],
+     "dest": "rooftop",
+     "way": "firestairs"
+    }
+   ]
+  },
+  {
+   "id": "r2_bedroom",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step into the wardrobe",
+     "box": [
+      0.05,
+      0.15,
+      0.32,
+      0.7
+     ],
+     "dest": "snowforest",
+     "way": "wardrobe"
+    },
+    {
+     "dir": "up",
+     "label": "Climb out the window to the balloon",
+     "box": [
+      0.6,
+      0.1,
+      0.24,
+      0.75
+     ],
+     "dest": "balloon",
+     "way": "balloon"
+    }
+   ]
+  },
+  {
+   "id": "r2_kitchen",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Climb into the giant teacup",
+     "box": [
+      0.0,
+      0.28,
+      0.35,
+      0.6
+     ],
+     "dest": "plate",
+     "way": "teacup"
+    },
+    {
+     "dir": "right",
+     "label": "Crawl through the mousehole",
+     "box": [
+      0.76,
+      0.6,
+      0.1,
+      0.22
+     ],
+     "dest": "kitchen",
+     "way": "mousehole"
+    }
+   ]
+  },
+  {
+   "id": "r2_cave",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Squeeze through the crack of daylight",
+     "box": [
+      0.17,
+      0.0,
+      0.1,
+      0.58
+     ],
+     "dest": "village",
+     "way": "crack"
+    },
+    {
+     "dir": "right",
+     "label": "Take the boat into the dark",
+     "box": [
+      0.62,
+      0.3,
+      0.36,
+      0.56
+     ],
+     "dest": "seacave",
+     "way": "boat"
+    }
+   ]
+  },
+  {
+   "id": "r1_void_stair",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "up",
+     "label": "Climb into the dark",
+     "box": [
+      0.2,
+      0.0,
+      0.45,
+      0.86
+     ],
+     "dest": "void"
+    }
+   ]
+  },
+  {
+   "id": "r1_campfire",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Walk toward the fire",
+     "box": [
+      0.48,
+      0.4,
+      0.16,
+      0.36
+     ],
+     "dest": "tavern"
+    }
+   ]
+  },
+  {
+   "id": "r1_corridor",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Open the great door",
+     "box": [
+      0.41,
+      0.3,
+      0.18,
+      0.45
+     ],
+     "dest": "supermarket",
+     "way": "door"
+    }
+   ]
+  },
+  {
+   "id": "s_crossroads",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Take the road to the red desert",
+     "box": [
+      0.04,
+      0.38,
+      0.32,
+      0.32
+     ],
+     "next": "r3_desert_bones"
+    },
+    {
+     "dir": "center",
+     "label": "Take the road to the city",
+     "box": [
+      0.42,
+      0.42,
+      0.17,
+      0.26
+     ],
+     "next": "r3_rooftops"
+    },
+    {
+     "dir": "right",
+     "label": "Take the road to the sky stairs",
+     "box": [
+      0.78,
+      0.3,
+      0.18,
+      0.4
+     ],
+     "next": "r3_pink_sea"
+    }
+   ]
+  },
+  {
+   "id": "s_station",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Board the steam train",
+     "box": [
+      0.07,
+      0.27,
+      0.26,
+      0.45
+     ],
+     "next": "r3_mountain"
+    },
+    {
+     "dir": "center",
+     "label": "Board the bullet train",
+     "box": [
+      0.41,
+      0.38,
+      0.17,
+      0.33
+     ],
+     "next": "r3_station"
+    },
+    {
+     "dir": "right",
+     "label": "Board the carnival train",
+     "box": [
+      0.67,
+      0.33,
+      0.25,
+      0.4
+     ],
+     "next": "r3_circus"
+    }
+   ]
+  },
+  {
+   "id": "s_lighthouse",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk the light to the island",
+     "box": [
+      0.1,
+      0.38,
+      0.26,
+      0.34
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "center",
+     "label": "Walk the light to the sun",
+     "box": [
+      0.44,
+      0.4,
+      0.14,
+      0.4
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Walk the light to the cliffs",
+     "box": [
+      0.7,
+      0.36,
+      0.28,
+      0.36
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_meadow",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Step through the red door",
+     "box": [
+      0.09,
+      0.25,
+      0.16,
+      0.47
+     ],
+     "next": "r3_museum"
+    },
+    {
+     "dir": "center",
+     "label": "Step through the white door",
+     "box": [
+      0.42,
+      0.25,
+      0.16,
+      0.47
+     ],
+     "next": "r3_pink_sea"
+    },
+    {
+     "dir": "right",
+     "label": "Step through the blue door",
+     "box": [
+      0.75,
+      0.25,
+      0.18,
+      0.47
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_rooftop",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "down",
+     "label": "Take the fire escape",
+     "box": [
+      0.12,
+      0.58,
+      0.17,
+      0.22
+     ],
+     "next": "r3_plaza"
+    },
+    {
+     "dir": "center",
+     "label": "Ride the zipline",
+     "box": [
+      0.42,
+      0.2,
+      0.23,
+      0.38
+     ],
+     "next": "r3_rooftops"
+    },
+    {
+     "dir": "up",
+     "label": "Climb to the balloon",
+     "box": [
+      0.72,
+      0.04,
+      0.16,
+      0.5
+     ],
+     "next": "r3_forest"
+    }
+   ]
+  },
+  {
+   "id": "s_ice",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Walk toward the red mountain",
+     "box": [
+      0.05,
+      0.31,
+      0.3,
+      0.37
+     ],
+     "next": "r3_desert_bones"
+    },
+    {
+     "dir": "center",
+     "label": "Walk toward the white mountain",
+     "box": [
+      0.4,
+      0.31,
+      0.2,
+      0.4
+     ],
+     "next": "r3_mountain"
+    },
+    {
+     "dir": "right",
+     "label": "Walk toward the blue mountain",
+     "box": [
+      0.66,
+      0.31,
+      0.3,
+      0.37
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_courtyard",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Go through the wooden gate",
+     "box": [
+      0.04,
+      0.2,
+      0.24,
+      0.5
+     ],
+     "next": "r3_plaza"
+    },
+    {
+     "dir": "center",
+     "label": "Go through the golden gate",
+     "box": [
+      0.41,
+      0.24,
+      0.2,
+      0.46
+     ],
+     "next": "r3_forest"
+    },
+    {
+     "dir": "right",
+     "label": "Go through the stone gate",
+     "box": [
+      0.72,
+      0.23,
+      0.24,
+      0.49
+     ],
+     "next": "r3_beach_ufo"
+    }
+   ]
+  },
+  {
+   "id": "s_cloudship",
+   "kind": "start",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Cross to the castle island",
+     "box": [
+      0.05,
+      0.18,
+      0.26,
+      0.54
+     ],
+     "next": "r3_library"
+    },
+    {
+     "dir": "center",
+     "label": "Cross to the glass city",
+     "box": [
+      0.37,
+      0.12,
+      0.25,
+      0.6
+     ],
+     "next": "r3_station"
+    },
+    {
+     "dir": "right",
+     "label": "Cross to the jungle island",
+     "box": [
+      0.69,
+      0.22,
+      0.28,
+      0.5
+     ],
+     "next": "r3_forest"
+    }
+   ]
+  },
+  {
+   "id": "r1_keyhole",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Step through the keyhole",
+     "box": [
+      0.43,
+      0.15,
+      0.18,
+      0.7
+     ],
+     "dest": "playa",
+     "way": "keyhole"
+    }
+   ]
+  },
+  {
+   "id": "r1_rainbow",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Cross the rainbow bridge",
+     "box": [
+      0.28,
+      0.25,
+      0.46,
+      0.55
+     ],
+     "dest": "castletown",
+     "way": "rainbow"
+    }
+   ]
+  },
+  {
+   "id": "r1_ribcage",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "center",
+     "label": "Walk through the ribcage",
+     "box": [
+      0.33,
+      0.25,
+      0.34,
+      0.5
+     ],
+     "dest": "ribcage",
+     "way": "ribs"
+    }
+   ]
+  },
+  {
+   "id": "r2_canyon",
+   "kind": "route",
+   "openings": [
+    {
+     "dir": "left",
+     "label": "Ride the mine cart into the tunnel",
+     "box": [
+      0.02,
+      0.17,
+      0.34,
+      0.38
+     ],
+     "dest": "mine",
+     "way": "minecart"
+    },
+    {
+     "dir": "right",
+     "label": "Cross the rope bridge",
+     "box": [
+      0.56,
+      0.26,
+      0.37,
+      0.27
+     ],
+     "dest": "dunes",
+     "way": "bridge"
+    }
+   ]
+  }
+ ],
+ "panels": {
+  "byCard": {},
+  "byMove": {
+   "arrow": [
+    "move__arrow__0.jpg",
+    "move__arrow__1.jpg"
+   ],
+   "bash": [
+    "move__bash__0.jpg",
+    "move__bash__1.jpg"
+   ],
+   "block": [
+    "move__block__0.jpg",
+    "move__block__1.jpg"
+   ],
+   "block_back": [
+    "move__block_back__0.jpg",
+    "move__block_back__act1_0.jpg",
+    "move__block_back__act2_0.jpg",
+    "move__block_back__base_0.jpg"
+   ],
+   "block_cu": [
+    "move__block_cu__0.jpg",
+    "move__block_cu__act1_0.jpg",
+    "move__block_cu__act2_0.jpg",
+    "move__block_cu__base_0.jpg"
+   ],
+   "bolt": [
+    "move__bolt__0.jpg",
+    "move__bolt__1.jpg"
+   ],
+   "brace": [
+    "move__brace__0.jpg",
+    "move__brace__1.jpg"
+   ],
+   "buff": [
+    "move__buff__0.jpg",
+    "move__buff__1.jpg",
+    "move__buff__2.jpg"
+   ],
+   "buff_arch": [
+    "move__buff_arch__0.jpg",
+    "move__buff_arch__act1_0.jpg",
+    "move__buff_arch__act2_0.jpg",
+    "move__buff_arch__base_0.jpg"
+   ],
+   "call": [
+    "move__call__0.jpg"
+   ],
+   "cast": [
+    "move__cast__0.jpg",
+    "move__cast__1.jpg",
+    "move__cast__2.jpg"
+   ],
+   "cast_hand": [
+    "move__cast_hand__0.jpg",
+    "move__cast_hand__act1_0.jpg",
+    "move__cast_hand__act2_0.jpg",
+    "move__cast_hand__base_0.jpg"
+   ],
+   "cast_release": [
+    "move__cast_release__0.jpg",
+    "move__cast_release__act1_0.jpg",
+    "move__cast_release__act2_0.jpg",
+    "move__cast_release__base_0.jpg"
+   ],
+   "cleave": [
+    "move__cleave__0.jpg",
+    "move__cleave__1.jpg",
+    "move__cleave__2.jpg"
+   ],
+   "cleave_tall": [
+    "move__cleave_tall__0.jpg"
+   ],
+   "cleave_wide": [
+    "move__cleave_wide__0.jpg"
+   ],
+   "cursed": [
+    "move__cursed__0.jpg"
+   ],
+   "debuff": [
+    "move__debuff__0.jpg",
+    "move__debuff__1.jpg"
+   ],
+   "dodge": [
+    "move__dodge__0.jpg"
+   ],
+   "draw": [
+    "move__draw__0.jpg"
+   ],
+   "ecu_eyes": [
+    "move__ecu_eyes__0.jpg",
+    "move__ecu_eyes__1.jpg",
+    "move__ecu_eyes__act1_0.jpg",
+    "move__ecu_eyes__act2_0.jpg",
+    "move__ecu_eyes__base_0.jpg"
+   ],
+   "ecu_grip": [
+    "move__ecu_grip__0.jpg"
+   ],
+   "finisher_back": [
+    "move__finisher_back__0.jpg",
+    "move__finisher_back__act1_0.jpg",
+    "move__finisher_back__act2_0.jpg",
+    "move__finisher_back__base_0.jpg"
+   ],
+   "flurry": [
+    "move__flurry__0.jpg",
+    "move__flurry__1.jpg",
+    "move__flurry__2.jpg"
+   ],
+   "guard": [
+    "move__guard__0.jpg",
+    "move__guard__1.jpg",
+    "move__guard__2.jpg",
+    "move__guard__3.jpg"
+   ],
+   "guard_tall": [
+    "move__guard_tall__0.jpg"
+   ],
+   "heal": [
+    "move__heal__0.jpg",
+    "move__heal__1.jpg"
+   ],
+   "heavy": [
+    "move__heavy__0.jpg",
+    "move__heavy__1.jpg"
+   ],
+   "heavy_full": [
+    "move__heavy_full__0.jpg",
+    "move__heavy_full__1.jpg",
+    "move__heavy_full__act1_0.jpg",
+    "move__heavy_full__act2_0.jpg",
+    "move__heavy_full__base_0.jpg"
+   ],
+   "heavy_tall": [
+    "move__heavy_tall__0.jpg",
+    "move__heavy_tall__1.jpg",
+    "move__heavy_tall__act1_0.jpg",
+    "move__heavy_tall__act2_0.jpg",
+    "move__heavy_tall__base_0.jpg"
+   ],
+   "hex_bind": [
+    "move__hex_bind__0.jpg"
+   ],
+   "hex_curse": [
+    "move__hex_curse__0.jpg"
+   ],
+   "hex_frail": [
+    "move__hex_frail__0.jpg"
+   ],
+   "hex_vuln": [
+    "move__hex_vuln__0.jpg"
+   ],
+   "hex_weak": [
+    "move__hex_weak__0.jpg"
+   ],
+   "impact_strip": [
+    "move__impact_strip__0.jpg"
+   ],
+   "multi": [
+    "move__multi__0.jpg",
+    "move__multi__1.jpg"
+   ],
+   "peril_face": [
+    "move__peril_face__0.jpg",
+    "move__peril_face__act1_0.jpg",
+    "move__peril_face__act2_0.jpg",
+    "move__peril_face__base_0.jpg"
+   ],
+   "poison": [
+    "move__poison__0.jpg",
+    "move__poison__1.jpg"
+   ],
+   "power": [
+    "move__power__0.jpg",
+    "move__power__1.jpg"
+   ],
+   "skill": [
+    "move__skill__0.jpg",
+    "move__skill__1.jpg"
+   ],
+   "slash": [
+    "move__slash__0.jpg",
+    "move__slash__1.jpg"
+   ],
+   "strike": [
+    "move__strike__0.jpg",
+    "move__strike__1.jpg",
+    "move__strike__2.jpg",
+    "move__strike__3.jpg",
+    "move__strike__4.jpg"
+   ],
+   "strike_slant": [
+    "move__strike_slant__0.jpg",
+    "move__strike_slant__1.jpg",
+    "move__strike_slant__2.jpg",
+    "move__strike_slant__act1_0.jpg",
+    "move__strike_slant__act2_0.jpg",
+    "move__strike_slant__base_0.jpg"
+   ],
+   "strike_wide": [
+    "move__strike_wide__0.jpg",
+    "move__strike_wide__1.jpg"
+   ],
+   "struck": [
+    "move__struck__0.jpg",
+    "move__struck__1.jpg",
+    "move__struck__act1_0.jpg",
+    "move__struck__act2_0.jpg",
+    "move__struck__base_0.jpg"
+   ],
+   "sweep": [
+    "move__sweep__0.jpg",
+    "move__sweep__1.jpg",
+    "move__sweep__3.jpg",
+    "move__sweep__4.jpg"
+   ],
+   "sweep_wide": [
+    "move__sweep_wide__0.jpg"
+   ],
+   "thrust": [
+    "move__thrust__0.jpg",
+    "move__thrust__1.jpg"
+   ],
+   "trick": [
+    "move__trick__0.jpg"
+   ],
+   "triptych": [
+    "move__triptych__0.jpg",
+    "move__triptych__1.jpg",
+    "move__triptych__2.jpg"
+   ],
+   "victory": [
+    "move__victory__0.jpg"
+   ],
+   "volley": [
+    "move__volley__0.jpg",
+    "move__volley__1.jpg"
+   ]
+  },
+  "byGod": {
+   "american": [
+    "god__american__0.jpg",
+    "god__american__1.jpg",
+    "god__american__2.jpg"
+   ],
+   "burner": [
+    "god__burner__0.jpg",
+    "god__burner__1.jpg",
+    "god__burner__2.jpg"
+   ],
+   "dakini": [
+    "god__dakini__0.jpg",
+    "god__dakini__1.jpg",
+    "god__dakini__2.jpg"
+   ],
+   "hero": [
+    "god__hero__0.jpg",
+    "god__hero__1.jpg",
+    "god__hero__2.jpg"
+   ],
+   "messiah": [
+    "god__messiah__0.jpg",
+    "god__messiah__1.jpg",
+    "god__messiah__2.jpg"
+   ],
+   "optimizer": [
+    "god__optimizer__0.jpg",
+    "god__optimizer__1.jpg",
+    "god__optimizer__2.jpg"
+   ],
+   "punk": [
+    "god__punk__0.jpg",
+    "god__punk__1.jpg",
+    "god__punk__2.jpg"
+   ],
+   "trickster": [
+    "god__trickster__0.jpg",
+    "god__trickster__1.jpg",
+    "god__trickster__2.jpg"
+   ]
+  }
+ }
+}

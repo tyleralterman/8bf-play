@@ -1,0 +1,376 @@
+{
+ "look_act1__attack": {
+  "ox": -42,
+  "oy": -54,
+  "w": 1031,
+  "h": 1067
+ },
+ "look_act1__block": {
+  "ox": -35,
+  "oy": -15,
+  "w": 894,
+  "h": 1106
+ },
+ "look_act1__cast": {
+  "ox": -33,
+  "oy": 4,
+  "w": 930,
+  "h": 1124
+ },
+ "look_act1__dodge": {
+  "ox": 42,
+  "oy": -327,
+  "w": 839,
+  "h": 885
+ },
+ "look_act1__hurt": {
+  "ox": 82,
+  "oy": -12,
+  "w": 823,
+  "h": 1109
+ },
+ "look_act1__kneel": {
+  "ox": -96,
+  "oy": -288,
+  "w": 642,
+  "h": 832
+ },
+ "look_act1__stance_fence": {
+  "ox": -44,
+  "oy": -152,
+  "w": 1009,
+  "h": 987
+ },
+ "look_act1__stance_guard": {
+  "ox": -32,
+  "oy": 172,
+  "w": 891,
+  "h": 1293
+ },
+ "look_act1__stance_low": {
+  "ox": -49,
+  "oy": -155,
+  "w": 881,
+  "h": 966
+ },
+ "look_act1__stance_shoulder": {
+  "ox": -43,
+  "oy": 40,
+  "w": 690,
+  "h": 1160
+ },
+ "look_act1__stance_weary": {
+  "ox": -37,
+  "oy": 18,
+  "w": 742,
+  "h": 1139
+ },
+ "look_act1__victory": {
+  "ox": -29,
+  "oy": 451,
+  "w": 835,
+  "h": 1575
+ },
+ "look_act1__windup": {
+  "ox": 2,
+  "oy": -26,
+  "w": 799,
+  "h": 1146
+ },
+ "look_act2__attack": {
+  "ox": -7,
+  "oy": -50,
+  "w": 1037,
+  "h": 1071
+ },
+ "look_act2__block": {
+  "ox": -2,
+  "oy": -13,
+  "w": 897,
+  "h": 1108
+ },
+ "look_act2__cast": {
+  "ox": 3,
+  "oy": 6,
+  "w": 932,
+  "h": 1127
+ },
+ "look_act2__dodge": {
+  "ox": 77,
+  "oy": -326,
+  "w": 841,
+  "h": 883
+ },
+ "look_act2__hurt": {
+  "ox": 116,
+  "oy": -1,
+  "w": 838,
+  "h": 1120
+ },
+ "look_act2__kneel": {
+  "ox": -68,
+  "oy": -286,
+  "w": 649,
+  "h": 835
+ },
+ "look_act2__stance_fence": {
+  "ox": -15,
+  "oy": -147,
+  "w": 1003,
+  "h": 991
+ },
+ "look_act2__stance_guard": {
+  "ox": 3,
+  "oy": 185,
+  "w": 901,
+  "h": 1306
+ },
+ "look_act2__stance_low": {
+  "ox": -16,
+  "oy": -151,
+  "w": 882,
+  "h": 970
+ },
+ "look_act2__stance_shoulder": {
+  "ox": -1,
+  "oy": 41,
+  "w": 692,
+  "h": 1162
+ },
+ "look_act2__stance_weary": {
+  "ox": -3,
+  "oy": 21,
+  "w": 746,
+  "h": 1141
+ },
+ "look_act2__victory": {
+  "ox": 13,
+  "oy": 462,
+  "w": 833,
+  "h": 1583
+ },
+ "look_act2__windup": {
+  "ox": 34,
+  "oy": -20,
+  "w": 800,
+  "h": 1149
+ },
+ "look_base": {
+  "ox": 0,
+  "oy": 0,
+  "w": 0,
+  "h": 0,
+  "glow": [
+   0.7277,
+   0.6851
+  ]
+ },
+ "look_base__attack": {
+  "ox": -349,
+  "oy": 95,
+  "w": 964,
+  "h": 1217,
+  "glow": [
+   0.5133,
+   0.6842
+  ]
+ },
+ "look_base__block": {
+  "ox": -342,
+  "oy": 235,
+  "w": 932,
+  "h": 1356,
+  "glow": [
+   0.6546,
+   0.1642
+  ]
+ },
+ "look_base__cast": {
+  "ox": -417,
+  "oy": 150,
+  "w": 844,
+  "h": 1271,
+  "glow": [
+   0.7847,
+   0.3126
+  ]
+ },
+ "look_base__dodge": {
+  "ox": -184,
+  "oy": 94,
+  "w": 572,
+  "h": 1216,
+  "glow": [
+   0.7573,
+   0.2622
+  ]
+ },
+ "look_base__hurt": {
+  "ox": -424,
+  "oy": 146,
+  "w": 705,
+  "h": 1267,
+  "glow": [
+   0.7884,
+   0.3022
+  ]
+ },
+ "look_base__kneel": {
+  "ox": -236,
+  "oy": -404,
+  "w": 469,
+  "h": 716,
+  "glow": [
+   0.7994,
+   0.5959
+  ]
+ },
+ "look_base__stance_fence": {
+  "ox": -405,
+  "oy": 233,
+  "w": 914,
+  "h": 1355,
+  "glow": [
+   0.8186,
+   0.2509
+  ]
+ },
+ "look_base__stance_guard": {
+  "ox": -424,
+  "oy": 95,
+  "w": 777,
+  "h": 1217,
+  "glow": [
+   0.8075,
+   0.2735
+  ]
+ },
+ "look_base__stance_low": {
+  "ox": -46,
+  "oy": -27,
+  "w": 846,
+  "h": 1096,
+  "glow": [
+   0.6888,
+   0.6922
+  ]
+ },
+ "look_base__stance_shoulder": {
+  "ox": -238,
+  "oy": 225,
+  "w": 791,
+  "h": 1346,
+  "glow": [
+   0.278,
+   0.177
+  ]
+ },
+ "look_base__stance_weary": {
+  "ox": -427,
+  "oy": 46,
+  "w": 573,
+  "h": 1211,
+  "glow": [
+   0.7892,
+   0.6522
+  ]
+ },
+ "look_base__victory": {
+  "ox": -425,
+  "oy": 551,
+  "w": 609,
+  "h": 1675,
+  "glow": [
+   0.7576,
+   0.2266
+  ]
+ },
+ "look_base__windup": {
+  "ox": -428,
+  "oy": 281,
+  "w": 740,
+  "h": 1402,
+  "glow": [
+   0.7254,
+   0.222
+  ]
+ },
+ "look_patchwork__attack": {
+  "ox": -28,
+  "oy": -58,
+  "w": 1033,
+  "h": 1064
+ },
+ "look_patchwork__block": {
+  "ox": -26,
+  "oy": -2,
+  "w": 897,
+  "h": 1119
+ },
+ "look_patchwork__cast": {
+  "ox": -22,
+  "oy": 7,
+  "w": 928,
+  "h": 1128
+ },
+ "look_patchwork__dodge": {
+  "ox": 56,
+  "oy": -316,
+  "w": 840,
+  "h": 892
+ },
+ "look_patchwork__hurt": {
+  "ox": 88,
+  "oy": -10,
+  "w": 824,
+  "h": 1110
+ },
+ "look_patchwork__kneel": {
+  "ox": -94,
+  "oy": -286,
+  "w": 643,
+  "h": 835
+ },
+ "look_patchwork__stance_fence": {
+  "ox": -36,
+  "oy": -152,
+  "w": 1000,
+  "h": 990
+ },
+ "look_patchwork__stance_guard": {
+  "ox": -22,
+  "oy": 176,
+  "w": 892,
+  "h": 1297
+ },
+ "look_patchwork__stance_low": {
+  "ox": -43,
+  "oy": -152,
+  "w": 878,
+  "h": 969
+ },
+ "look_patchwork__stance_shoulder": {
+  "ox": -34,
+  "oy": 42,
+  "w": 691,
+  "h": 1162
+ },
+ "look_patchwork__stance_weary": {
+  "ox": -28,
+  "oy": 20,
+  "w": 746,
+  "h": 1140
+ },
+ "look_patchwork__victory": {
+  "ox": -11,
+  "oy": 454,
+  "w": 839,
+  "h": 1575
+ },
+ "look_patchwork__windup": {
+  "ox": 12,
+  "oy": -25,
+  "w": 798,
+  "h": 1146
+ }
+}
